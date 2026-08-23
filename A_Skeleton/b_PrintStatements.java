@@ -1,8 +1,7 @@
-package A_Skeleton;
 
 import java.util.Locale;
 
-public class PrintStatements {
+public class b_PrintStatements {
     public static void main(String[] args) {
         //Print statement: After printing the cursor stays on the same line
         System.out.print("Hello");
@@ -21,8 +20,10 @@ public class PrintStatements {
         char ch = '?';
         String str = "Baldev Yadav";
         boolean flag = true;
+        // format: printf("String",variables)
         System.out.printf("%s is %d years old with %.2fcm height, is a %b developer%c\n", str, age, height, flag, ch);
         //use %s:String, %d:Integer, %f:Decimal, %b:Boolean, %c:Character
+        //then write the variables in respective sequece in the last 
 
         // float in exponential format
         float e = 278163871f;

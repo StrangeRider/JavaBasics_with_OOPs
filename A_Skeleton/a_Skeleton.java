@@ -1,8 +1,4 @@
-package A_Skeleton;
-
-import java.util.Locale;
-
-public class Skeleton {
+public class a_Skeleton {
     public static void main(String[] args) { //similar to arg... ; program argument
         System.out.println(args[0]);
         System.out.println(args[1]);
