@@ -72,7 +72,7 @@ cd JavaBasics_with_OOPs
 
 You can open the project in **any Java-compatible IDE**, such as:
 
-* IntelliJ IDEA
+* IntelliJ IDEA (Preferred)
 * VS Code
 * Eclipse
 * NetBeans

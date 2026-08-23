@@ -1,3 +1,5 @@
+ Compiled Java files
+*.class
 # Default ignored files
 /shelf/
 /workspace.xml
